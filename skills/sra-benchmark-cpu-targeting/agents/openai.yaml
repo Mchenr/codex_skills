@@ -1,0 +1,4 @@
+interface:
+  display_name: "SRA CPU Targeting"
+  short_description: "Find QPS at target CPU load"
+  default_prompt: "Use $sra-benchmark-cpu-targeting to find the wd_dcn QPS and latency at 60% CPU on a 32T container."
